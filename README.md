@@ -1,6 +1,8 @@
 # Data Structures and Algorithms Learning
 
-This repository documents my learning and implementation of data structures and algorithms using C++ and C#.
+This repository documents my learning and implementation of data structures and algorithms using C#.
+
+Note that the book I will be referencing is only in C++.
 
 ## Reference
 
