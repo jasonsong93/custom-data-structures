@@ -25,7 +25,7 @@ public class List<T>
 
     public T Get(int index)
     {
-        if (index <= 0 || index >= _count)
+        if (index < 0 || index >= _count)
         {
             throw new IndexOutOfRangeException();
         }
@@ -34,7 +34,7 @@ public class List<T>
 
     public void Set(int index, T value)
     {
-        if (index <= 0 || index >= _count)
+        if (index < 0 || index >= _count)
         {
             throw new IndexOutOfRangeException();
         }
