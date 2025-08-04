@@ -1,4 +1,4 @@
-namespace AlgorithmsAndDataStructures.Linear;
+namespace AlgorithmsAndDataStructures.ADT.Linear;
 
 public class List<T>
 {

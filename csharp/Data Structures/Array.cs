@@ -1,4 +1,4 @@
-namespace AlgorithmsAndDataStructures.Linear;
+namespace AlgorithmsAndDataStructures.Data_Structures;
 
 public class Array<T>
 {

@@ -1,3 +1,5 @@
+namespace AlgorithmsAndDataStructures.Data_Structures;
+
 public class LinkedList<T>
 {
     private LinkedListNode<T> _head;
