@@ -1,4 +1,4 @@
-namespace AlgorithmsAndDataStructures.ADT.Hashing;
+namespace AlgorithmsAndDataStructures.DataStructures.Hashing;
 
 public class HashSetSeparateChaining<T>
 {

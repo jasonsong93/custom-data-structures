@@ -1,4 +1,4 @@
-namespace AlgorithmsAndDataStructures.ADT.Linear;
+namespace AlgorithmsAndDataStructures.DataStructures.Linear;
 
 // This will be a circular queue - faster than regular array without pointers for dequeueing esp
 public class QueueCircularArray<T>

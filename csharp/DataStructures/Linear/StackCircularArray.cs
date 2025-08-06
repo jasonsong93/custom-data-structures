@@ -1,4 +1,4 @@
-namespace AlgorithmsAndDataStructures.ADT.Linear;
+namespace AlgorithmsAndDataStructures.DataStructures.Linear;
 
 public class StackCircularArray<T>
 {
