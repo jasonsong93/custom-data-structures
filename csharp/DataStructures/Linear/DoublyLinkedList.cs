@@ -1,4 +1,4 @@
-namespace AlgorithmsAndDataStructures.DataStructures;
+namespace AlgorithmsAndDataStructures.DataStructures.Linear;
 
 public class DoublyLinkedList<T>
 {
